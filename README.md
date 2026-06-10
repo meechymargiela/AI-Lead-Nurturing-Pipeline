@@ -268,6 +268,7 @@ Digital Marketing & AI Marketing Automation Specialist
 
 ## Workflow Canvas
 <img width="386" height="864" alt="Screenshot 2026-06-10 090021" src="https://github.com/user-attachments/assets/0bf6ecc1-5f8d-4060-ab8c-e57e92e1a128" />
+<img width="1909" height="875" alt="image" src="https://github.com/user-attachments/assets/5ef521ab-c120-4ce0-91d8-41aa819af9b1" />
 <img width="1898" height="869" alt="image" src="https://github.com/user-attachments/assets/cc298a4f-686a-4e52-8e17-aa6186e7f528" />
 <img width="1910" height="882" alt="image" src="https://github.com/user-attachments/assets/bbf19aa7-c6d1-4e76-9772-e3c4c9c8eb31" />
 <img width="1906" height="821" alt="image" src="https://github.com/user-attachments/assets/ecbb1232-3e6a-477b-92e2-6aa010d37400" />
