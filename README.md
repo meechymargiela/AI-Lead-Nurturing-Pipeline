@@ -211,29 +211,6 @@ HubSpot Form Submission
 
 ---
 
-## Repository Structure
-
-```
-├── README.md                          # This file
-├── docs/
-│   ├── workflow-flow-diagram.png      # Full pipeline visual
-│   ├── lead-scoring-setup.png         # HubSpot scoring configuration
-│   ├── email-sequence-overview.png    # All 7 emails mapped
-│   └── make-scenario-diagram.png      # Make.com flow
-├── emails/
-│   ├── email-1-welcome.html           # Email templates
-│   ├── email-2-education.html
-│   ├── email-3-social-proof.html
-│   ├── email-4-objection.html
-│   ├── email-5-soft-cta.html
-│   ├── email-6-second-cta.html
-│   └── email-7-breakup.html
-└── make-scenario/
-    └── scenario-blueprint.json        # Exportable Make.com scenario
-```
-
----
-
 ## Key Design Decisions
 
 **Why a 25pt mid-funnel score gate**  
