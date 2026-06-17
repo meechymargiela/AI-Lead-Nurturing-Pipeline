@@ -238,8 +238,7 @@ A single send cadence treats a lead who opened 4 emails identically to one who o
 **Mitchell Louw**  
 Digital Marketing & AI Marketing Automation Specialist 
 📍 Pretoria, South Africa  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🌐 [Portfolio](https://your-portfolio-site.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mitchell-louw-979551178/)  
 
 ---
 
